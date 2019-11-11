@@ -28,6 +28,21 @@ the way to share and reuse.
 
 Maintenance means generics.
 
-Generics easier maintenance.
+Generics ease maintenance.
 
 That's the rules!
+
+### Verbose Standards and Typed Implementations 
+
+As the standards are often verbose and duplicated,
+hence the implementations are responsible
+
+- to get standards implemented elegantly
+	- with reduced codes and operations;
+	- with better user interactions;
+- to take care of the rest;
+
+There are demos like:
+
+- [OpenAPI Specification - Wikipedia](https://en.wikipedia.org/wiki/OpenAPI_Specification)
+    - [Swagger](https://swagger.io/)
