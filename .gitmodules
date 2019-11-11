@@ -1,0 +1,3 @@
+[submodule "src/Typed-Mermaid"]
+	path = src/Typed-Mermaid
+	url = https://github.com/zhanbei/Typed-Mermaid.git
