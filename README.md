@@ -13,6 +13,8 @@ Generic types are designed to reduce the codes duplications.
 
 ## Motivations
 
+### Reducing Duplication
+
 Tasks get handled in the simple( but duplicated) way, or in the generic( but complex) manner.
 
 The same way, scripts and documents are written daily that are often(highly) duplicated.
@@ -21,3 +23,11 @@ Hence, commonly generic types are better to be defined and gathered together
 to reduce the time-consuming duplications,
 and in the way to empower people to get more complex tasks handled easily --
 the way to share and reuse.
+
+### Easier Maintenance
+
+Maintenance means generics.
+
+Generics easier maintenance.
+
+That's the rules!
