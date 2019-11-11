@@ -1,6 +1,14 @@
 # Typed Scripts
 
-<!-- > 2019-11-11T14:23:52+0800 -->
+<!--
+```yaml
+date: 2019-11-11T14:23:52+0800
+titles:
+  - Typed Scripts
+  - Generics and Types
+  - Verbose Standards and Typed Implementations 
+```
+-->
 
 > Where there are entries, there are types.
 
@@ -45,4 +53,4 @@ hence the implementations are responsible
 There are demos like:
 
 - [OpenAPI Specification - Wikipedia](https://en.wikipedia.org/wiki/OpenAPI_Specification)
-    - [Swagger](https://swagger.io/)
+	- [Swagger](https://swagger.io/)
