@@ -1,3 +1,6 @@
 [submodule "src/Typed-Mermaid"]
 	path = src/Typed-Mermaid
 	url = https://github.com/zhanbei/Typed-Mermaid.git
+[submodule "src/Typed-Markdown"]
+	path = src/Typed-Markdown
+	url = https://github.com/zhanbei/Typed-Markdown.git
